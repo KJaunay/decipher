@@ -1,2 +1,2 @@
 # decipher
-Python programm built to help with creating and cracking ciphers
+Python program built to help with creating and cracking ciphers
